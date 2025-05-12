@@ -98,7 +98,7 @@ export default function Home() {
             <ul className="list-disc ml-5 mb-4">
               <li>Business casual dress code</li>
               <li>Open-plan layout encourages teamwork</li>
-              <li>C-suite executives have private offices</li>
+              <li>C-suite executives have private offices, except one which is more of a makeshift office</li>
             </ul>
 
             <h2 className="text-xl font-semibold mb-2">U.S. Visa Requirements</h2>
